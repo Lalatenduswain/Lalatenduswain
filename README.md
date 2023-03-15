@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lalatendu</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Linux SysAdmin & a DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalatenduswain&label=Profile%20views&color=0e75b6&style=flat" alt="lalatenduswain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalatenduswain" alt="lalatenduswain" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/lalatenduswain" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/lalatenduswain?logo=twitter&style=for-the-badge" alt="https://twitter.com/lalatenduswain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lalatenduswain" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/lalatenduswain?logo=twitter&style=for-the-badge" alt="https://twitter.com/lalatenduswain" /></a> </p>
 
 - 🔭 I’m currently working on **CI/CD**
 
