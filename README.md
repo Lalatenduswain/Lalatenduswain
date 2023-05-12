@@ -36,8 +36,4 @@
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><img alt="lalatenduswain" src="https://github-readme-stats.vercel.app/api?username=lalatenduswain&amp;show_icons=true&amp;locale=en" /><img alt="lalatenduswain" src="https://github-readme-streak-stats.herokuapp.com/?user=lalatenduswain&amp;" /></p>
-
-<p>.</p>
