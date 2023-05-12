@@ -1,31 +1,51 @@
-<h1 align="center">Hi 👋, I'm Lalatendu</h1>
-<h3 align="center">A passionate Linux SysAdmin & a DevOps Engineer from India</h3>
+<h1>Hi 👋, I&#39;m Lalatendu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalatenduswain&label=Profile%20views&color=0e75b6&style=flat" alt="lalatenduswain" /> </p>
+<h3>A passionate Linux SysAdmin &amp; a DevOps Engineer from India | TechBlog :&nbsp;<a href="https://blog.lalatendu.info/">https://blog.lalatendu.info/</a></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalatenduswain" alt="lalatenduswain" /></a> </p>
+<p><img alt="lalatenduswain" src="https://komarev.com/ghpvc/?username=lalatenduswain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="lalatenduswain" src="https://github-profile-trophy.vercel.app/?username=lalatenduswain" /></a></p>
 
+<p>- 🔭 I&rsquo;m currently working on **CI/CD**</p>
 
-- 🔭 I’m currently working on **CI/CD**
+<h3>Connect with me:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lalatenduswain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/lalatenduswain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11769417/lalatendu-swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11769417/lalatendu-swain" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/udnetalal.niaws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/udnetalal.niaws" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/lalatendukeshariswain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lalatendukeshariswain/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@lalatenduswain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lalatenduswain" height="30" width="40" /></a>
-</p>
+<p><a href="https://twitter.com/lalatenduswain" target="blank"><img alt="https://twitter.com/lalatenduswain" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Social/twitter.svg" style="height:30px; width:40px" /></a> <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11769417/lalatendu-swain" target="blank"><img alt="https://stackoverflow.com/users/11769417/lalatendu-swain" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Social/stack-overflow.svg" style="height:30px; width:40px" /></a> <a href="https://fb.com/https://www.facebook.com/udnetalal.niaws" target="blank"><img alt="https://www.facebook.com/udnetalal.niaws" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Social/facebook.svg" style="height:30px; width:40px" /></a> <a href="https://instagram.com/https://www.instagram.com/lalatendukeshariswain/" target="blank"><img alt="https://www.instagram.com/lalatendukeshariswain/" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Social/instagram.svg" style="height:30px; width:40px" /></a> <a href="https://www.youtube.com/@lalatenduswain" target="blank"><img alt="https://www.youtube.com/@lalatenduswain" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Social/youtube.svg" style="height:30px; width:40px" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<h3>Languages and Tools:</h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/lalatendu.swain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lalatendu.swain" /></a></p><br><br>
+<p><a href="https://aws.amazon.com" rel="noreferrer" target="_blank"><img alt="aws" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Devops/aws.svg" style="height:40px; width:40px" /> </a> <a href="https://azure.microsoft.com/en-in/" rel="noreferrer" target="_blank"> <img alt="azure" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Devops/azure.svg" style="height:40px; width:40px" /> </a> <a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank"> <img alt="bash" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Devops/bash.svg" style="height:40px; width:40px" /> </a> <a href="https://www.docker.com/" rel="noreferrer" target="_blank"> <img alt="docker" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Devops/docker.svg" style="height:40px; width:40px" /> </a> <a href="https://cloud.google.com" rel="noreferrer" target="_blank"> <img alt="gcp" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/googlecloud/googlecloud-original.svg" style="height:40px; width:40px" /> </a> <a href="https://git-scm.com/" rel="noreferrer" target="_blank"> <img alt="git" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/git/git-original.svg" style="height:40px; width:40px" /> </a> <a href="https://www.jenkins.io" rel="noreferrer" target="_blank"> <img alt="jenkins" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Devops/jenkins.svg" style="height:40px; width:40px" /> </a> <a href="https://kubernetes.io" rel="noreferrer" target="_blank"> <img alt="kubernetes" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Devops/kubernetes.svg" style="height:40px; width:40px" /> </a> <a href="https://www.linux.org/" rel="noreferrer" target="_blank"> <img alt="linux" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Other/linux.svg" style="height:40px; width:40px" /> </a> <a href="https://mariadb.org/" rel="noreferrer" target="_blank"> <img alt="mariadb" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/Database/mariadb.svg" style="height:40px; width:40px" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" rel="noreferrer" target="_blank"> <img alt="mssql" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="height:40px; width:40px" /> </a> <a href="https://www.mysql.com/" rel="noreferrer" target="_blank"> <img alt="mysql" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/mysql/mysql-original-wordmark.svg" style="height:40px; width:40px" /> </a> <a href="https://www.nginx.com" rel="noreferrer" target="_blank"> <img alt="nginx" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/nginx/nginx-original.svg" style="height:40px; width:40px" /> </a> <a href="https://www.postgresql.org" rel="noreferrer" target="_blank"> <img alt="postgresql" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/postgresql/postgresql-original-wordmark.svg" style="height:40px; width:40px" /> </a> <a href="https://redis.io" rel="noreferrer" target="_blank"> <img alt="redis" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/redis/redis-original-wordmark.svg" style="height:40px; width:40px" /> </a> <a href="https://www.vagrantup.com/" rel="noreferrer" target="_blank"> <img alt="vagrant" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/vagrantup-icon.svg" style="height:40px; width:40px" /> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalatenduswain&show_icons=true&locale=en&layout=compact" alt="lalatenduswain" /></p>
+<h3>Support:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalatenduswain&show_icons=true&locale=en" alt="lalatenduswain" /></p>
+<p><a href="https://www.buymeacoffee.com/lalatendu.swain"><img alt="lalatendu.swain" src="https://raw.githubusercontent.com/Lalatenduswain/lalatenduswain.github.io/master/images/icons/buymeacoffee.svg" style="float:left; height:50px; width:210px" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalatenduswain&" alt="lalatenduswain" /></p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="lalatenduswain" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalatenduswain&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="float:left" /></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="lalatenduswain" src="https://github-readme-stats.vercel.app/api?username=lalatenduswain&amp;show_icons=true&amp;locale=en" /></p>
+
+<p>&nbsp;</p>
+
+<p><img alt="lalatenduswain" src="https://github-readme-streak-stats.herokuapp.com/?user=lalatenduswain&amp;" /></p>
