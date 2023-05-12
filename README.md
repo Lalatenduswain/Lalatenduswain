@@ -1,8 +1,14 @@
 <h1>Hi 👋, I&#39;m Lalatendu</h1>
 
-<h3>A passionate Linux SysAdmin &amp; a DevOps Engineer from India | TechBlog :&nbsp;<a href="https://blog.lalatendu.info/">https://blog.lalatendu.info/</a></h3>
+<h3>A passionate Linux SysAdmin &amp; a DevOps Engineer from India</h3>
+
+<h3>TechBlog :&nbsp;<a href="https://blog.lalatendu.info/">https://blog.lalatendu.info/</a></h3>
+
+<p>&nbsp;</p>
 
 <p><img alt="lalatenduswain" src="https://komarev.com/ghpvc/?username=lalatenduswain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
+
+<p>&nbsp;</p>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="lalatenduswain" src="https://github-profile-trophy.vercel.app/?username=lalatenduswain" /></a></p>
 
