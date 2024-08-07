@@ -6,7 +6,18 @@
 
 <p style="text-align:justify"><img alt="lalatenduswain" src="https://komarev.com/ghpvc/?username=lalatenduswain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
-<p style="text-align:justify"><strong>I am a seasoned System Administrator with 8 years of experience in managing and maintaining complex IT infrastructures. Over the years, I have developed a deep understanding of various operating systems, network protocols, and virtualization technologies. My technical expertise also extends to cloud platforms, where I have worked for 4 years and gained valuable experience in designing, deploying, and managing cloud-based solutions.</strong></p>
+
+<p style="text-align:justify"><strong>I am an experienced System Administrator and Cloud Security Administrator with over 13 years of expertise in managing and maintaining complex IT infrastructures. I have deep knowledge of operating systems, network protocols, and virtualization technologies, along with 4 years of hands-on experience with cloud platforms, designing, deploying, and managing cloud-based solutions.</strong></p>
+
+<p style="text-align:justify"><strong>Experience:</strong></p>
+<ul>
+  <li><strong>Senior AWS & DevOps Consultant, Cerulean Information Technology</strong> (Mar 2023 - Present)</li>
+  <li><strong>Senior AWS Cloud System Administrator, Cerulean Information Technology</strong> (Jun 2019 - Mar 2023)</li>
+  <li><strong>AWS Engineer, Cerulean Information Technology</strong> (Jun 2019 - Mar 2023)</li>
+  <li><strong>System Administrator, Papyrus LLC</strong> (Jan 2017 - May 2019)</li>
+  <li><strong>System Administrator, Al Marjan LLC</strong> (Dec 2013 - Jan 2017)</li>
+  <li><strong>System Administrator, Kasar Groups</strong> (Jul 2011 - Nov 2013)</li>
+</ul>
 
 <p style="text-align:justify"><strong>Throughout my career, I have demonstrated a passion for delivering reliable and secure systems that meet the needs of businesses and their users. I have a track record of successfully implementing and maintaining critical IT infrastructure components, such as servers, storage, and network devices, to ensure that they perform optimally and meet business objectives. I am also adept at troubleshooting complex technical issues and identifying root causes to ensure that systems operate efficiently.</strong></p>
 
