@@ -15,8 +15,6 @@
   <li><strong>Senior AWS Cloud System Administrator, Cerulean Information Technology</strong> (Jun 2019 - Mar 2023)</li>
   <li><strong>AWS Engineer, Cerulean Information Technology</strong> (Jun 2019 - Mar 2023)</li>
   <li><strong>System Administrator, Papyrus LLC</strong> (Jan 2017 - May 2019)</li>
-  <li><strong>System Administrator, Al Marjan LLC</strong> (Dec 2013 - Jan 2017)</li>
-  <li><strong>System Administrator, Kasar Groups</strong> (Jul 2011 - Nov 2013)</li>
 </ul>
 
 <p style="text-align:justify"><strong>Throughout my career, I have demonstrated a passion for delivering reliable and secure systems that meet the needs of businesses and their users. I have a track record of successfully implementing and maintaining critical IT infrastructure components, such as servers, storage, and network devices, to ensure that they perform optimally and meet business objectives. I am also adept at troubleshooting complex technical issues and identifying root causes to ensure that systems operate efficiently.</strong></p>
