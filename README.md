@@ -23,7 +23,7 @@
 
 <p style="text-align:justify"><strong>If you need any assistance with System Administration or Cloud solutions, feel free to contact me. I would be more than happy to help you out!</strong></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="lalatenduswain" src="https://github-profile-trophy.vercel.app/?username=lalatenduswain" /></a></p>
+
 
 <p><strong>- 🔭 I&rsquo;m currently working on&nbsp; : Languages and Tools:</strong></p>
 
