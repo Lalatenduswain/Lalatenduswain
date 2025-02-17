@@ -7,7 +7,7 @@
 <p style="text-align:justify"><img alt="lalatenduswain" src="https://komarev.com/ghpvc/?username=lalatenduswain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
 
-<p style="text-align:justify"><strong>I am an experienced System Administrator and Cloud Security Administrator with over 13 years of expertise in managing and maintaining complex IT infrastructures. I have deep knowledge of operating systems, network protocols, and virtualization technologies, along with 4 years of hands-on experience with cloud platforms, designing, deploying, and managing cloud-based solutions.</strong></p>
+<p style="text-align:justify"><strong>I am an experienced System Administrator and Cloud Security Administrator with over 13 years of expertise in managing and maintaining complex IT infrastructures. I have deep knowledge of operating systems, network protocols, and virtualization technologies, along with 6 years of hands-on experience with cloud platforms, designing, deploying, and managing cloud-based solutions.</strong></p>
 
 <p style="text-align:justify"><strong>Experience:</strong></p>
 <ul>
