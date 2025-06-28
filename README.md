@@ -56,7 +56,7 @@ I stay up-to-date with emerging technologies and trends to remain relevant in th
 
 ## 🌐 Connect with Me
 
-[<img src="https://lalatendu.info/images/icons/Social/x-social-media-logo-icon.svg" alt="Twitter" width="20" height="20">](https://x.com/lalatenduswain) 
+[<img src="https://lalatendu.info/images/icons/Social/x-social-media-logo-icon.svg" alt="X" width="20" height="20">](https://x.com/lalatenduswain) 
 [<img src="https://lalatendu.info/images/icons/Social/twitter.svg" alt="Twitter" width="20" height="20">](https://twitter.com/lalatenduswain) 
 [<img src="https://lalatendu.info/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="20" height="20">](https://stackoverflow.com/users/11769417/lalatendu-swain) 
 [<img src="https://lalatendu.info/images/icons/Social/facebook.svg" alt="Facebook" width="20" height="20">](https://www.facebook.com/udnetalal.niaws) 
