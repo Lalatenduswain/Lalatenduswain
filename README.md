@@ -3,6 +3,8 @@
 <h3>Personal Blog :&nbsp;<a href="https://lalatendu.info/">https://lalatendu.info</a></h3>
 
 <h3>TechBlog :&nbsp;<a href="https://blog.lalatendu.info/">https://blog.lalatendu.info</a></h3>
+<h4>वसुधैव कुटुम्बकम् || सर्वे भवन्तु सुखिनः 🕊️</h4>
+
 
 <p style="text-align:justify"><img alt="lalatenduswain" src="https://komarev.com/ghpvc/?username=lalatenduswain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
