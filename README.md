@@ -31,22 +31,22 @@ I stay up-to-date with emerging technologies and trends to remain relevant in th
 
 ## 🛠️ Languages and Tools
 
-![AWS](https://lalatendu.info/images/icons/Devops/aws.svg) 
-![Azure](https://lalatendu.info/images/icons/Devops/azure.svg) 
-![Bash](https://lalatendu.info/images/icons/Devops/bash.svg) 
-![Docker](https://lalatendu.info/images/icons/Devops/docker.svg) 
-![GCP](https://lalatendu.info/images/icons/googlecloud/googlecloud-original.svg) 
-![Git](https://lalatendu.info/images/icons/git/git-original.svg) 
-![Jenkins](https://lalatendu.info/images/icons/Devops/jenkins.svg) 
-![Kubernetes](https://lalatendu.info/images/icons/Devops/kubernetes.svg) 
-![Linux](https://lalatendu.info/images/icons/Other/linux.svg) 
-![MariaDB](https://lalatendu.info/images/icons/Database/mariadb.svg) 
-![MSSQL](https://lalatendu.info/images/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg) 
-![MySQL](https://lalatendu.info/images/icons/mysql/mysql-original-wordmark.svg) 
-![Nginx](https://lalatendu.info/images/icons/nginx/nginx-original.svg) 
-![PostgreSQL](https://lalatendu.info/images/icons/postgresql/postgresql-original-wordmark.svg) 
-![Redis](https://lalatendu.info/images/icons/redis/redis-original-wordmark.svg) 
-![Vagrant](https://lalatendu.info/images/icons/vagrantup-icon.svg)
+[<img src="https://lalatendu.info/images/icons/Devops/aws.svg" alt="AWS" width="24" height="24">](https://aws.amazon.com) 
+[<img src="https://lalatendu.info/images/icons/Devops/azure.svg" alt="Azure" width="24" height="24">](https://azure.microsoft.com/en-in/) 
+[<img src="https://lalatendu.info/images/icons/Devops/bash.svg" alt="Bash" width="24" height="24">](https://www.gnu.org/software/bash/) 
+[<img src="https://lalatendu.info/images/icons/Devops/docker.svg" alt="Docker" width="24" height="24">](https://www.docker.com/) 
+[<img src="https://lalatendu.info/images/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="24" height="24">](https://cloud.google.com) 
+[<img src="https://lalatendu.info/images/icons/git/git-original.svg" alt="Git" width="24" height="24">](https://git-scm.com/) 
+[<img src="https://lalatendu.info/images/icons/Devops/jenkins.svg" alt="Jenkins" width="24" height="24">](https://www.jenkins.io) 
+[<img src="https://lalatendu.info/images/icons/Devops/kubernetes.svg" alt="Kubernetes" width="24" height="24">](https://kubernetes.io) 
+[<img src="https://lalatendu.info/images/icons/Other/linux.svg" alt="Linux" width="24" height="24">](https://www.linux.org/) 
+[<img src="https://lalatendu.info/images/icons/Database/mariadb.svg" alt="MariaDB" width="24" height="24">](https://mariadb.org/) 
+[<img src="https://lalatendu.info/images/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="24" height="24">](https://www.microsoft.com/en-us/sql-server) 
+[<img src="https://lalatendu.info/images/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="24" height="24">](https://www.mysql.com/) 
+[<img src="https://lalatendu.info/images/icons/nginx/nginx-original.svg" alt="Nginx" width="24" height="24">](https://www.nginx.com) 
+[<img src="https://lalatendu.info/images/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="24" height="24">](https://www.postgresql.org) 
+[<img src="https://lalatendu.info/images/icons/redis/redis-original-wordmark.svg" alt="Redis" width="24" height="24">](https://redis.io) 
+[<img src="https://lalatendu.info/images/icons/vagrantup-icon.svg" alt="Vagrant" width="24" height="24">](https://www.vagrantup.com/)
 
 ## 📊 GitHub Stats
 
@@ -56,11 +56,11 @@ I stay up-to-date with emerging technologies and trends to remain relevant in th
 
 ## 🌐 Connect with Me
 
-[<img src="https://lalatendu.info/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="30">](https://twitter.com/lalatenduswain) 
-[<img src="https://lalatendu.info/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="30">](https://stackoverflow.com/users/11769417/lalatendu-swain) 
-[<img src="https://lalatendu.info/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30">](https://www.facebook.com/udnetalal.niaws) 
-[<img src="https://lalatendu.info/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30">](https://www.instagram.com/lalatendukeshariswain/) 
-[<img src="https://lalatendu.info/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30">](https://www.youtube.com/@lalatenduswain)
+[<img src="https://lalatendu.info/images/icons/Social/twitter.svg" alt="Twitter" width="20" height="20">](https://twitter.com/lalatenduswain) 
+[<img src="https://lalatendu.info/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="20" height="20">](https://stackoverflow.com/users/11769417/lalatendu-swain) 
+[<img src="https://lalatendu.info/images/icons/Social/facebook.svg" alt="Facebook" width="20" height="20">](https://www.facebook.com/udnetalal.niaws) 
+[<img src="https://lalatendu.info/images/icons/Social/instagram.svg" alt="Instagram" width="20" height="20">](https://www.instagram.com/lalatendukeshariswain/) 
+[<img src="https://lalatendu.info/images/icons/Social/youtube.svg" alt="YouTube" width="20" height="20">](https://www.youtube.com/@lalatenduswain)
 
 - 🌍 [Personal Blog](https://lalatendu.info/)
 - 📝 [Tech Blog](https://blog.lalatendu.info/)
