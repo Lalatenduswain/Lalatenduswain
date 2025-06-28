@@ -11,7 +11,8 @@
 
 <p style="text-align:justify"><strong>Experience:</strong></p>
 <ul>
-  <li><strong>Senior AWS & DevOps Consultant, Cerulean Information Technology</strong> (Mar 2023 - Present)</li>
+  <li><strong>Senior DevSecOps Engineer, Cerulean Information Technology</strong> (Mar 2024 - Till Now)</li>
+  <li><strong>Senior AWS & DevOps Consultant, Cerulean Information Technology</strong> (Mar 2023 - 2024)</li>
   <li><strong>Senior AWS Cloud System Administrator, Cerulean Information Technology</strong> (Jun 2019 - Mar 2023)</li>
   <li><strong>AWS Engineer, Cerulean Information Technology</strong> (Jun 2019 - Mar 2023)</li>
   <li><strong>System Administrator, Papyrus LLC</strong> (Jan 2017 - May 2019)</li>
