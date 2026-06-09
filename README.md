@@ -15,7 +15,6 @@
 
 Senior **DevSecOps Engineer** and **Cloud Security Administrator** based in **Bengaluru, India** 🇮🇳 with **15+ years** of IT infrastructure experience and **7+ years** in AWS cloud security.
 
-- 🔭 Currently building a **GST Filing Multi-Agent System**, **SOC Automation Platform** & **School Bus Tracker**
 - 🏠 Homelab: **Proxmox + pfSense + Docker + Cloudflare Zero Trust**
 - ✍️ Active blogger on **[blog.lalatendu.info](https://blog.lalatendu.info/)** and **[Medium](https://lalatenduswain.medium.com/)**
 - 🛡️ Specialise in **Zero Trust Architecture, SIEM, ISO 27001 & AWS Security**
