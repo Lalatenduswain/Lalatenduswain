@@ -34,7 +34,7 @@ Senior **DevSecOps Engineer** and **Cloud Security Administrator** based in **Be
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Free Time | RnD Hobby Project | Currently Building
 
 | Project | Stack |
 |---|---|
