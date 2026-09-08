@@ -120,7 +120,7 @@ Proxmox VE (Bare Metal)
 <p align="center">
   <img src="https://gh-stats.com/api/top-langs?username=lalatenduswain&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   &nbsp;
-  <img src="https://gh-stats.com/api?username=lalatenduswain&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://gh-stats.com/api/lalatenduswain?widgets=impact&theme=tokyonight&hide_border=true" alt="Impact Timeline" />
 </p>
 
 <p align="center">
